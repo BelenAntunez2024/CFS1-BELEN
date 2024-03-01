@@ -1,0 +1,10 @@
+console.log("Cocinar una torta");
+console.log("Preparar los ingredientes");
+console.log("medir los ingrediente");
+console.log("incorporar los ingredientes en un bolws");
+console.log("mezclar los ingredientes");
+console.log("Pasar la mezcla a una molde");
+console.log("llevar al horno");
+console.log("cocinar por 45 minutos");
+console.log("Verificar que este hecha");
+console.log("Apago el horno y retiro la torta"); 
